@@ -1,2 +1,3 @@
 print("Hello world")
-a = 5
+c=10
+b=15
